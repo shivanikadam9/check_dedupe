@@ -1,0 +1,72 @@
+Data  :  [
+  {
+    "amount": "785",
+    "first_name": "Brent",
+    "email": "bpomphrey0@icq.com",
+    "phone": "901-387-9128",
+    "bill_date": "5/15/2020"
+  },
+  {
+    "amount": "89",
+    "first_name": "Bonnie",
+    "email": "bkeener1@wsj.com",
+    "phone": "920-275-4262",
+    "bill_date": "5/14/2020"
+  },
+  {
+    "amount": "915",
+    "first_name": "Ring",
+    "email": "rcorfield2@cornell.edu",
+    "phone": "600-714-7660",
+    "bill_date": "6/28/2019"
+  },
+  {
+    "amount": "5898",
+    "first_name": "Tracey",
+    "email": "ttebb3@indiatimes.com",
+    "phone": "232-350-8087",
+    "bill_date": "1/7/2020"
+  },
+  {
+    "amount": "395",
+    "first_name": "Munroe",
+    "email": "mnuttey4@zimbio.com",
+    "phone": "871-211-0635",
+    "bill_date": "9/24/2019"
+  },
+  {
+    "amount": "89203",
+    "first_name": "Faith",
+    "email": "fsporgeon5@php.net",
+    "phone": "139-340-0343",
+    "bill_date": "9/16/2019"
+  },
+  {
+    "amount": "7",
+    "first_name": "Percy",
+    "email": "pwilsee6@weebly.com",
+    "phone": "145-883-7441",
+    "bill_date": "2/29/2020"
+  },
+  {
+    "amount": "69818",
+    "first_name": "Kory",
+    "email": "kgarioch7@slideshare.net",
+    "phone": "404-111-2271",
+    "bill_date": "1/12/2020"
+  },
+  {
+    "amount": "62",
+    "first_name": "Nicolea",
+    "email": "nclutton8@purevolume.com",
+    "phone": "277-725-5103",
+    "bill_date": "10/8/2019"
+  },
+  {
+    "amount": "1",
+    "first_name": "Caril",
+    "email": "cnano9@guardian.co.uk",
+    "phone": "437-996-2038",
+    "bill_date": "10/11/2019"
+  }
+] {Duplicate Records : 3}          {Time Taken :  0ms}
